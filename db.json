@@ -1,0 +1,176 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "descricao": "Terror e Suspense"
+        },
+        {
+            "id": 2,
+            "descricao": "Ação e Aventura"
+        },
+        {
+            "id": 2,
+            "descricao": "Para Toda Família"
+        }
+    ],
+    "sessoes": [
+        {
+            "id": 1,
+            "filmeId": 1,
+            "data": "05/11/2022",
+            "reserva": [
+                {
+                    "horario": "21h00",
+                    "poltronasReservadas": [
+                        22,
+                        1,
+                        33,
+                        34,
+                        35,
+                        40,
+                        10,
+                        15,
+                        20
+                    ]
+                },
+                {
+                    "horario": "23h00",
+                    "poltronasReservadas": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        12,
+                        14,
+                        18,
+                        20,
+                        23,
+                        24,
+                        30,
+                        39,
+                        40
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "filmeId": 1,
+            "data": "09/11/2022",
+            "horarios": [
+                "16h00",
+                "23h00"
+            ]
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "A Queda",
+            "dataLancamento": "29/09/2022",
+            "sinopse": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
+            "categoria": 1,
+            "duracao": "1h 47m",
+            "classificacaoIndicativa": "12",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/53AC95HTGvFYA8ZRkGgeYo7lBRo.jpg"
+            }
+        },
+        {
+            "id": 2,
+            "titulo": "Não!Não Olhe",
+            "dataLancamento": "25/08/2022",
+            "sinopse": "Em Não! Não Olhe!, novo filme de terror do diretor Jordan Peele (Corra e Nós), uma cidade do interior da Califórnia começa a ter eventos bizarros e aparentemente extraterrestres. Os irmãos interpretados por Keke Palmer (‘True Jackson’) e Daniel Kaluuya (‘Corra’) possuem um rancho de cavalos e são vizinhos de um parque de diversões de uma série de televisão do personagem interpretado por Steven Yeun, inspirada no velho oeste. Os dois então são testemunhas de eventos bizarros e UFOs.",
+            "categoria": 1,
+            "duracao": "2h 11m",
+            "classificacaoIndicativa": "14",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg"
+            }
+        },
+        {
+            "id": 3,
+            "titulo": "A fera",
+            "dataLancamento": "11/08/2022",
+            "sinopse": "O Dr. Nate Samuels é um homem que perdeu a mulher recentemente, e decide fazer uma viagem com as filhas para uma reserva na África do Sul, onde conheceu a esposa. Mas o que começa como uma viagem tranquila, acaba se tornando um pesadelo quando eles passam a ser perseguidos por um leão.",
+            "categoria": 1,
+            "duracao": "2h 11m",
+            "classificacaoIndicativa": "14",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/sfzpUsUAnODsoQu9Xag47qiJpQg.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg"
+            }
+        },
+        {
+            "id": 4,
+            "titulo": "Convite Maldito",
+            "dataLancamento": "15/09/2022",
+            "categoria": 1,
+            "sinopse": "Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA… e descobre um primo perdido que ela não sabia que existia. Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.",
+            "duracao": "1h 38m",
+            "classificacaoIndicativa": "PG-13",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/99CeVSYiZcdqmVXi4S9U4tLuwg8.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg"
+            }
+        },
+        {
+            "id": 5,
+            "titulo": "Órfã 2: A Origem",
+            "dataLancamento": "15/09/2022",
+            "categoria": 1,
+            "sinopse": "Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como 'Esther' vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo.",
+            "duracao": "1h 45m",
+            "classificacaoIndicativa": "16",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/gGceWpdWbDOsALtoT6Xt52sgfaG.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "titulo": "Jurassic World: Domínio",
+            "dataLancamento": "02/06/2022",
+            "categoria": 2,
+            "sinopse": "Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.",
+            "duracao": "1h 55m",
+            "classificacaoIndicativa": "12",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/pVjrIf7iISs4KQwwbvT2pQOvQZI.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg"
+            }
+        },
+        {
+            "id": 7,
+            "titulo": "Top Gun: Maverick",
+            "dataLancamento": "26/05/2022",
+            "categoria": 2,
+            "sinopse": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete 'Maverick' Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+            "duracao": "2h 11m",
+            "classificacaoIndicativa": "12",
+            "imagens": {
+                "fundo": "https://www.themoviedb.org/t/p/w500_and_h282_face/vvfjmGd4iypwE89e3ZkhEsTNQyH.jpg",
+                "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg"
+            }
+        },
+        {
+            "id": 8,
+            "titulo": "",
+            "dataLancamento": "",
+            "categoria": 1,
+            "sinopse": "",
+            "duracao": "1h 45m",
+            "classificacaoIndicativa": "16",
+            "imagens": {
+                "fundo": "",
+                "poster": ""
+            }
+        }
+    ]
+}
